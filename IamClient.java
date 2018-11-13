@@ -18,6 +18,7 @@
  * ______________________________________________________________________________
  */
 package com.autonomic.iam.client.grpc;
+package com.autonomic.iam.client.foo;
 
 import static com.google.common.base.Preconditions.checkState;
 
